@@ -1,6 +1,7 @@
 
 
-https://user-images.githubusercontent.com/58391353/124500944-4a106a00-ddde-11eb-8e6d-e7d6a30f5ab5.mov
+![Name_banner](https://user-images.githubusercontent.com/58391353/124501205-bdb27700-ddde-11eb-99eb-406432ffead4.gif)
+
 
 - 👋 Hi, I’m @anushkarthik05
 - 👀 I’m interested in exploring different fields of Computer science.
