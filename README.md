@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/58391353/124500944-4a106a00-ddde-11eb-8e6d-e7d6a30f5ab5.mov
+
 - 👋 Hi, I’m @anushkarthik05
 - 👀 I’m interested in exploring different fields of Computer science.
 - 🌱 I’m currently learning new concepts to strengthen my basics in HTML, CSS, JS and also C++. 
