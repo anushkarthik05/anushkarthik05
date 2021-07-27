@@ -1,5 +1,5 @@
 
-![Name](https://github.com/anushkarthik05/scaling-waffle/blob/main/WhatsApp-Image-2020-08-23-at-3.38.31-PM.svg)
+![Name](https://github.com/anushkarthik05/scaling-waffle/blob/main/Dup.svg)
 ![Name_banner](https://user-images.githubusercontent.com/58391353/124501205-bdb27700-ddde-11eb-99eb-406432ffead4.gif)
 
 
