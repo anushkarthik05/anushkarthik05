@@ -1,7 +1,7 @@
 
 ![Name](https://github.com/anushkarthik05/scaling-waffle/blob/main/Dup.svg)
 <!---![Name_banner](https://user-images.githubusercontent.com/58391353/124501205-bdb27700-ddde-11eb-99eb-406432ffead4.gif)--->
-[![Anush's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushkarthik05)](https://github.com/anushkarthik05/github-readme-stats)
+[![Anush's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushkarthik05&theme=dark)](https://github.com/anushkarthik05/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushkarthik05&layout=compact)](https://github.com/anushkarthik05/github-readme-stats)
 
 
