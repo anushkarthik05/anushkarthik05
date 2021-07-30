@@ -1,10 +1,10 @@
 
-![Name](https://github.com/anushkarthik05/scaling-waffle/blob/main/Dup.svg)
+![Anush Karthik S](https://github.com/anushkarthik05/scaling-waffle/blob/main/Dup.svg)
 <!---![Name_banner](https://user-images.githubusercontent.com/58391353/124501205-bdb27700-ddde-11eb-99eb-406432ffead4.gif)--->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anushkarthik05/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkarthik05&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anushkarthik05/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkarthik05&layout=compact&theme=dark" />
 </a>
 
