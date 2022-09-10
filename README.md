@@ -12,8 +12,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkarthik05&count_private=true&layout=compact&theme=dark" />
 </a>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anush-karthik-s-045974163" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/anush-karthik-s-045974163?trk=profile-badge">Anush Karthik S</a></div>
               
 
 - 👋 Hi, I’m @anushkarthik05
