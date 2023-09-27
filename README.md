@@ -1,7 +1,15 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anushkarthik05/anushkarthik05/blob/main/images/Dark.svg">
+  <img alt="Anush Karthik S" src="https://github.com/anushkarthik05/anushkarthik05/blob/main/images/Light.svg">
+</picture>
 
-![Anush Karthik S](https://github.com/anushkarthik05/anushkarthik05/blob/main/images/Dup.svg)
+
+
+
+<!-- ![Anush Karthik S](https://github.com/anushkarthik05/anushkarthik05/blob/main/images/Dup.svg) -->
 <!---![Name_banner](https://user-images.githubusercontent.com/58391353/124501205-bdb27700-ddde-11eb-99eb-406432ffead4.gif)--->
 
+<!--
 <img src="https://github.com/anushkarthik05/anushkarthik05/blob/main/images/stat.svg" alt="Anush's WakaTime Activity"/>
 
 
@@ -10,7 +18,7 @@
 </a>
 <a href="https://github.com/anushkarthik05/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkarthik05&count_private=true&layout=compact&theme=dark" />
-</a>
+</a> -->
 
               
 
